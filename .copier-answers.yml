@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.1.1-1-g2bfbc82
+_src_path: /var/home/markus/projects/my-setup/python-template/
+anaconda_user: ''
+email: markus@frkl.dev
+full_name: Markus Binsteiner
+github_user: makkus
+project_licenses:
+- 0BSD
+project_name: Test project
+project_short_description: Test
